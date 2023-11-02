@@ -1,0 +1,176 @@
+[
+  {
+    "name": "JavaScript app time tracker. - Google Chrome",
+    "timeSpent": 14,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 14,
+        "log": [
+          {
+            "time": "14:55:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "14:57:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "14:58:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "14:59:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:00:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:01:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:02:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:03:17",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:05:06",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:06:06",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:07:06",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:10:06",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:14:07",
+            "elapsedTime": 1,
+            "screenshot": {}
+          },
+          {
+            "time": "15:20:08",
+            "elapsedTime": 1,
+            "screenshot": {}
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "activity-data.json - time tracker - Visual Studio Code",
+    "timeSpent": 1,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 1,
+        "log": [
+          {
+            "time": "14:56:17",
+            "elapsedTime": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Screenshots",
+    "timeSpent": 1,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 1,
+        "log": [
+          {
+            "time": "15:08:06",
+            "elapsedTime": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "● timetracker.js - time tracker - Visual Studio Code",
+    "timeSpent": 2,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 2,
+        "log": [
+          {
+            "time": "15:09:06",
+            "elapsedTime": 1
+          },
+          {
+            "time": "15:13:07",
+            "elapsedTime": 1,
+            "screenshot": {}
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Untitled - Paint",
+    "timeSpent": 1,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 1,
+        "log": [
+          {
+            "time": "15:12:08",
+            "elapsedTime": 1,
+            "screenshot": {}
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "ChatGPT - Google Chrome",
+    "timeSpent": 1,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 1,
+        "log": [
+          {
+            "time": "15:19:08",
+            "elapsedTime": 1,
+            "screenshot": {}
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "screenshot-20231029151208.png - time tracker - Visual Studio Code",
+    "timeSpent": 1,
+    "dateLog": {
+      "2023-10-29": {
+        "date": "2023-10-29",
+        "timeSpent": 1,
+        "log": [
+          {
+            "time": "16:04:13",
+            "elapsedTime": 1,
+            "screenshot": {}
+          }
+        ]
+      }
+    }
+  }
+]

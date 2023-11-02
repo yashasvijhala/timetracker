@@ -1,0 +1,22 @@
+{
+  "name": "time-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "active-win": "^8.1.1",
+    "annyang": "^2.6.1",
+    "artyom.js": "^1.0.6",
+    "cmake-js": "^7.2.1",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "node-record-lpcm16": "^1.0.1",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
